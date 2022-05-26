@@ -1,2 +1,19 @@
 #!/bin/bash
 chown betty hello
+[master 004858d] New owner
+ 15 files changed, 0 insertions(+), 0 deletions(-)
+ mode change 100644 => 100755 0x01-shell_permissions/10-mirror_permissions
+ mode change 100644 => 100755 0x01-shell_permissions/100-change_owner_and_group
+ mode change 100644 => 100755 0x01-shell_permissions/101-symbolic_link_permissions
+ mode change 100644 => 100755 0x01-shell_permissions/102-if_only
+ mode change 100644 => 100755 0x01-shell_permissions/103-Star_Wars
+ mode change 100644 => 100755 0x01-shell_permissions/11-directories_permissions
+ mode change 100644 => 100755 0x01-shell_permissions/12-directory_permissions
+ mode change 100644 => 100755 0x01-shell_permissions/13-change_group
+ mode change 100644 => 100755 0x01-shell_permissions/3-new_owner
+ mode change 100644 => 100755 0x01-shell_permissions/4-empty
+ mode change 100644 => 100755 0x01-shell_permissions/5-execute
+ mode change 100644 => 100755 0x01-shell_permissions/6-multiple_permissions
+ mode change 100644 => 100755 0x01-shell_permissions/7-everybody
+ mode change 100644 => 100755 0x01-shell_permissions/8-James_Bond
+ mode change 100644 => 100755 0x01-shell_permissions/9-John_Doe
