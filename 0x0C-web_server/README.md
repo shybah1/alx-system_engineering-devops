@@ -1,7 +1,7 @@
 # Web server
 
 In this project, I learned how web servers work and began using one. I was
-provided a personal server by Holberton School. I learned how to use `scp`
+provided a personal server by ALX. I learned how to use `scp`
 and Fabric to transfer files to my server. Additionally, I completed a basic
 configuration of the server using Nginx.
 
@@ -24,7 +24,7 @@ The server is accessible at [bdbnb.site](http://bdbnb.site).
   that configures a new Ubuntu machine with Nginx.
   * Nginx listens on port 80.
   * When querying Nginx at its root `/` with a `curl` GET request,
-  it returns a page containing the string `Holberton School`.
+  it returns a page containing the string `Hello World`.
 
 * **2. Setup a domain name**
   * [2-setup_a_domain_name](./2-setup_a_domain_name): A text file containing
